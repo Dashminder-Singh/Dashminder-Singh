@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 
 #### It is a great platform to show your codes, project repository. Everyone must have an github account .
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dashminder-Singh)](https://git.io/stats)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dashminder-Singh&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Dashminder-Singh)](https://git.io/stats)
