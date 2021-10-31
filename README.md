@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Dashminder Singh! 👋
 
-#### It is Great platform to store your source codes, projects,etc.Everyone must have an github account.
+#### It is Great platform to store your source codes, projects,etc. Everyone must have an github account.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dashminder-Singh&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
