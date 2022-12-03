@@ -8,6 +8,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dashminder-Singh&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dashminder-Singh)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Dashminder-Singh)  
 
 ![Profile views](https://gpvc.arturio.dev/Dashminder-Singh)  
