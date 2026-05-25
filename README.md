@@ -1,21 +1,43 @@
-## Hi 👋
+# Hi there! I'm Dashminder Singh 👋 
 
-## 🌐 Socials:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Dashminder-Singh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/dashmindersingh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dashminder-singh/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg' alt='geeksforgeeks' height='40'>](https://auth.geeksforgeeks.org/user/dashmindersinghas)  
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dashmindersingh.as) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__dashmindersingh__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dashminder-singh) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dashminder-Singh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dashminder-Singh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dashminder-Singh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dashminder-Singh&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I am a software engineer focused on core computer science fundamentals, backend programming, and intelligent process automation. I use this GitHub profile to showcase my learning path, project builds, and technical mastery.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dashminder-Singh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💻 Tech Stack & Skills
+* **Languages:** Python, C++, C, JavaScript
+* **Automation:** UiPath Studio, RPA Workflows
+* **Tools & Platforms:** Git, GitHub, VS Code
+
+---
+
+### 🚀 Featured Repositories & Past Contributions
+
+#### 🏗️ Data Structures & Algorithms (DSA)
+* **[DSA_through_C](https://github.com):** A comprehensive practical laboratory containing array implementations, linear data structures, pointers, dynamic memory allocation, and algorithmic problem-solving using C.
+
+#### 🧩 Object-Oriented Programming
+* **[OOPS_with_cpp](https://github.com):** Real-world programming projects demonstrating core pillars of object-oriented design including polymorphism, inheritance, encapsulation, and abstractions in C++.
+* **[C-programs](https://github.com):** Dedicated code repository focused on decision-control structures, functional programming, loops, arrays, and string manipulation.
+
+#### 🐍 Python Engineering
+* **[Python_in_One](https://github.com):** Core repository deep-diving into syntax paradigms, data processing, and scripting architectures.
+* **[PCEP-Certification](https://github.com):** An active syllabus tracking system, documentation roadmap, and testing module for the Certified Entry-Level Python Programmer certification.
+
+#### 🤖 Intelligent Automation (RPA)
+* **[UiPath_automation](https://github.com) & [Uipath_UseCases](https://github.com):** Production-level workflows, automation bots, and architecture templates built within UiPath Studio to solve workflow bottlenecks.
+
+#### 🎃 Open Source & Community
+* **Hacktoberfest Participant:** Contributed verified Open Source Pull Requests (PRs) by solving public issues, improving project architectures, and collaborating with global codebase maintainers.
+---
+
+### 📊 GitHub Activity & Metrics
+
+![Dashminder's GitHub Stats](https://vercel.app)
+![Top Langs](https://vercel.app)
+
+---
+
+### 🌐 Connect With Me
+* **LinkedIn:** [://linkedin.com](https://linkedin.com)
+* **Location:** Punjab, India 📍
