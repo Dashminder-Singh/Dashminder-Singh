@@ -33,8 +33,10 @@ I am a software engineer focused on core computer science fundamentals, backend 
 
 ### 📊 GitHub Activity & Metrics
 
-![Dashminder's GitHub Stats](https://vercel.app)
-![Top Langs](https://vercel.app)
+<p align="left">
+  <img src="https://vercel.app" alt="Dashminder's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Langs" width="48%" />
+</p>
 
 ---
 
